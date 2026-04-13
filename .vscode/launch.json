@@ -9,12 +9,12 @@
 			"isMultiSession": true,
 			"enableTableSync": true
 		}
-		
 	],
 	"lastPrograms": [
 		{
 			"label": "U_CRIATBLZ"
 		}
 	],
-	"lastProgramExecuted": "U_CRIATBLZ"
+	"lastProgramExecuted": "<cancel>",
+	"lastProgramArguments": []
 }
