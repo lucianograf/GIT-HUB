@@ -13,8 +13,14 @@
 	"lastPrograms": [
 		{
 			"label": "U_CRIATBLZ"
+		},
+		{
+			"label": "nfesefaz"
+		},
+		{
+			"label": "sigamdi"
 		}
 	],
-	"lastProgramExecuted": "U_CRIATBLZ",
+	"lastProgramExecuted": "sigamdi",
 	"lastProgramArguments": []
 }
