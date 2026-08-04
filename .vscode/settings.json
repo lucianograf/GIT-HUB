@@ -2,4 +2,5 @@
     "totvsLanguageServer.welcomePage": false,
     "totvsLanguageServer.editor.linter.includes": "C:\\Totvs12\\Protheus\\include;C:\\Totvs12\\Protheus\\include;C:\\Totvs12\\Protheus\\include;C:\\Totvs12\\Protheus\\include",
     "git.ignoreLimitWarning": true,
+    "terminal.integrated.cursorWidth": 0,
 }
