@@ -19,8 +19,11 @@
 		},
 		{
 			"label": "sigamdi"
+		},
+		{
+			"label": "sigacom"
 		}
 	],
-	"lastProgramExecuted": "<cancel>",
+	"lastProgramExecuted": "sigacom",
 	"lastProgramArguments": []
 }
